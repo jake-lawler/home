@@ -7,10 +7,10 @@ Notes  on Richard McElreath's "Statistical Rethinking":
 [Link](https://jake-lawler.github.io/rethinking/)
 
 Much less comprehensive notes on "Statistics" by David Freedman, Robert Pisani, and Roger Purves:  
-Coming as soon as I remember how to host bookdown files on GitHub
+[Link](https://jake-lawler.github.io/Statistics-FPP/)
 
 Scattered notes, animations, and question answers from my read through of "Statistical Inference" by George Casella and Roger Berger:  
-As above.
+Coming shortly.
 
 ## Shiny Apps
  
