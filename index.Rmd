@@ -14,11 +14,13 @@ Much less comprehensive notes on "Statistics" by David Freedman, Robert Pisani, 
 [Link to notes](https://jake-lawler.github.io/Statistics-FPP/)  
 Just brief chapter summaries, no answers to questions or similar.
 
-Scattered notes, animations, and question answers from my read through of "Statistical Inference" by George Casella and Roger Berger:  
+Scattered notes, plots, and a couple of animations from my read through of "Statistical Inference" by George Casella and Roger Berger:  
 [Link to notes](https://jake-lawler.github.io/StatisticalInference/)  
 Still fairly early on with these. Even after my first full work-through I think I'll be revisiting and adding to these notes for a while.
 
-I've barely started ‘SQL for Data Scientists’ by Renée M. P. Teate, but all my notes will go [here](https://jake-lawler.github.io/SQLforDataScientists/).
+I'm reading through "Regression and Other Stories" by Gelman, Hill & Vehtari. I'm not making chapter notes and instead am trying to improve my base Stan writing by recreating the models presented there. Only just started, notes [here](https://jake-lawler.github.io/RegressionStories/).
+
+Notes on "SQL for Data Scientists" by Renée M. P. Teate are [here](https://jake-lawler.github.io/SQLforDataScientists/).
 
 
 
